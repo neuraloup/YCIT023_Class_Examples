@@ -1,0 +1,10 @@
+const HOURS_IN_DAY = 24;
+
+
+let hoursInDay = 24;
+
+
+let x = 6;
+
+x = "Brendan";
+
